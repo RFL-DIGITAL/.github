@@ -1,7 +1,7 @@
 # RFLD - организация занимающаяся разработкой иннавационного ПО для бизнеса и не только.
 <h1>Участники организации:</h1> 
 <ul>
-  <li><a href='https://github.com/StepanKupryashin'>Купряшин Степан</a> - TeamLead</li>
+  <li><a href='https://github.com/StepanKupryashin'>Степан Купряшин</a> - TeamLead</li>
   <li><a href='https://github.com/XdaydenegX'>Юрий Борундуков</a> - Frontend разработчик</li>
   <li><a href='https://github.com/SuperTapok'>Сергей Пуховский</a> - Backend разработчик</li>
   </ul>
