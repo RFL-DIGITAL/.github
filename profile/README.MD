@@ -3,7 +3,7 @@
 <ul>
   <li><a href='https://github.com/StepanKupryashin'>Степан Купряшин</a> - TeamLead</li>
   <li><a href='https://github.com/XdaydenegX'>Юрий Борундуков</a> - Frontend разработчик</li>
-  <li><a href='https://github.com/SuperTapok'>Сергей Пуховский</a> - Backend разработчик</li>
+  <li><a href='https://github.com/SuperTapok'>Сергей Пуховский</a> - Backend разработчик | DevOps</li>
   </ul>
   <hr/>
  <h2>Стек наших технологий:</h2>
